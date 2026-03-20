@@ -31,6 +31,9 @@ Streaming feed-forward 3D reconstruction enables real-time joint estimation of s
 - **State-Aware Smoothing** &mdash; Adaptively smooths trajectories using acceleration and state change magnitude as an uncertainty signal
 - **Real-time & Constant Memory** &mdash; Processes video streams with constant memory usage and real-time efficiency
 
+If you find this repository useful, please give it a star🌟 and consider citing our paper!
+
+
 ---
 
 ## Static-Scene Bias
